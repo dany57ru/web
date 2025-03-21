@@ -57,12 +57,6 @@
     <h2>1. Знакомство с PHP </h2>
     <ol>
         <li> <a href="http://f1097100.xsph.ru/MyProject/users.php">Классы и интерфейсы</a></li>
-        <!-- <li><a href="http://f0868605.xsph.ru/lab_1/vars.php">Работа с переменными и типами</a></li>
-        <li><a href="http://f0868605.xsph.ru/lab_1/if.php">Работа с конструкцией if-elseif-else</a></li>
-        <li><a href="http://f0868605.xsph.ru/lab_1/switch.php">Работа с конструкцией switch</a></li>
-        <li><a href="http://f0868605.xsph.ru/lab_1/match.php"> Работа с конструкцией match</li>
-        <li><a href="http://f0868605.xsph.ru/lab_1/array.php">Работа с массивами</a></li>
-        <li><a href="http://f0868605.xsph.ru/lab_1/constant.php">Работа с константами</a></li> -->
     </ol>  
     </div>
     </div>
