@@ -13,7 +13,7 @@
         }
         body{
             /*background: linear-gradient(0deg, #FEC568 0%, #E3FFA1 100%);*/
-            background-image:url("16983840_mancha_azul.jpg");
+            background-image:url("c39ffd269183d4783c43d64c40adb06e.jpg");
             background-size: 100%;
 
         }
@@ -52,7 +52,7 @@
 </head>
 <body>
     <div id = "conteiner">
-    <h1 > Лабораторные работы по PHP</h1>
+    <h1 > Лабораторные работы</h1>
     <div id = "left">
     <h2>1. Знакомство с PHP </h2>
     <ol>
